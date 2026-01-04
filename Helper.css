@@ -1,0 +1,194 @@
+.headerjpg{
+    bottom: 0vw;
+    left: 0vw;
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    background-size: cover;
+    z-index: 2;
+    object-fit: cover;
+}
+
+.name{
+    font-size: medium;
+}
+
+.headertxt{
+    bottom: 1.3vw;
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    background-size: cover;
+    background-position: 0%;
+    z-index: 2;
+    object-fit: cover;
+    font-size:3vw;
+}
+
+.fullbg{
+    position:fixed;
+    margin-top: -1.5%;
+    left: 0;
+    height: 110%;
+    width: 100%;
+    z-index: -3;
+    background-size: cover;
+    object-fit: fill;
+}
+
+.david:hover, .mona:hover, .sf:hover, .venus:hover, .star:hover, .scream:hover, .ven:hover, .iconnic:hover{
+    transform: scale(1.05);
+    filter: none;
+    -webkit-filter: grayscale(0%);
+    cursor: pointer;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease;
+}
+
+.david{
+    position: fixed;
+    margin-top: 1%;
+    margin-left: 0%;
+    height: 155%;
+    width: auto;
+    z-index: -1;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.mona{
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 27.9%;
+    height: 33%;
+    width: auto;
+    z-index: -2;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.sf{
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 40%;
+    height: 33%;
+    width: auto;
+    z-index: -2;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.venus{
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 54%;
+    height: 30%;
+    width: auto;
+    z-index: -2;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.star{
+    position: fixed;
+    margin-top: 20.7%;
+    margin-left: 36%;
+    height: 29%;
+    width: auto;
+    z-index: -2;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.scream{
+    position: fixed;
+    margin-top: 19.25%;
+    margin-left: 54%;
+    height: 32%;
+    width: auto;
+    z-index: -2;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.ven{
+    position: fixed;
+    margin-top: -1%;
+    margin-left: 79%;
+    height: 150%;
+    width: auto;
+    z-index: -1;
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.portrait{
+    top: 8vw;
+    padding-left: 8vw;
+    height: 20vw;
+    width: auto;
+    position: fixed;
+
+}
+
+.portraitbov{
+    top: 8.5vw;
+    padding-left: 2vw;
+    height: 20vw;
+    width: auto;
+    position: fixed;
+}
+
+.paintextbov{
+    font-size: 1.5vw;
+    padding-left: 35vw;
+    padding-right: 2vw;
+    padding-top: 7.5vw;
+}
+
+.portraitstat{
+    top: 5vw;
+    padding-left: 4.5vw;
+    height: 70vw;
+    width: auto;
+    position: fixed;
+}
+
+.portraitstatdav{
+    top: 4vw;
+    padding-left: 4.5vw;
+    height: 70vw;
+    width: auto;
+    position: fixed;
+}
+
+.portrait:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease;
+}
+
+.paintext{
+    font-size: 1.5vw;
+    padding-left: 29vw;
+    padding-right: 2vw;
+    padding-top: 7.5vw;
+}
+
+.iconnic{
+    top: 2vw;
+    padding-left: 2vw;
+    height: 5vw;
+    width: auto;
+    position: fixed;
+    object-fit: cover;
+    background-size: cover;
+}
+
+.mi{
+    height: 2vw;
+    width: auto;
+}
